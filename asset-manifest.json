@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/REACT-projekt-1/static/css/main.f90bc11d.css",
+    "main.js": "/REACT-projekt-1/static/js/main.9914cc23.js",
+    "static/js/787.ea967aa1.chunk.js": "/REACT-projekt-1/static/js/787.ea967aa1.chunk.js",
+    "static/media/cover.jpg": "/REACT-projekt-1/static/media/cover.08252fd5348f868c782a.jpg",
+    "static/media/mum.jpg": "/REACT-projekt-1/static/media/mum.bdaa54b1316e6fa5752a.jpg",
+    "static/media/dad.jpg": "/REACT-projekt-1/static/media/dad.79e90c03086541376156.jpg",
+    "index.html": "/REACT-projekt-1/index.html",
+    "main.f90bc11d.css.map": "/REACT-projekt-1/static/css/main.f90bc11d.css.map",
+    "main.9914cc23.js.map": "/REACT-projekt-1/static/js/main.9914cc23.js.map",
+    "787.ea967aa1.chunk.js.map": "/REACT-projekt-1/static/js/787.ea967aa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f90bc11d.css",
+    "static/js/main.9914cc23.js"
+  ]
+}
